@@ -37,11 +37,11 @@ namespace MyProject
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Segoe UI", 24F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point);
-            this.label1.Location = new System.Drawing.Point(274, 65);
+            this.label1.Location = new System.Drawing.Point(130, 58);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(251, 54);
+            this.label1.Size = new System.Drawing.Size(494, 54);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Hello World";
+            this.label1.Text = "Hello World (1st change)";
             this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // button1
